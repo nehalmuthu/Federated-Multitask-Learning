@@ -6,6 +6,9 @@ Software Requirement:
 Matlab
 
 How to Run:
-1)Download the repository
+
+1)Download the repository.
+
 2)Run model_driver to get error of models.
+
 3)Run optimizaton_driver to generate plots for run time of models.
